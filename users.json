@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Sabiq",
+    "prenom": "Nouhayla",
+    "age": 32
+  },
+  {
+    "id": 2,
+    "nom": "el alaoui",
+    "prenom": "Soukaina",
+    "age": 28
+  },
+  {
+    "id": 3,
+    "nom": "cc",
+    "prenom": "adam",
+    "age": 45
+  },
+  {
+    "nom": "NOUHAYLA",
+    "prenom": "SABIQ",
+    "age": 22,
+    "id": 4
+  },
+  {
+    "nom": "NOUHAYLA",
+    "prenom": "SABIQ",
+    "age": 22,
+    "id": 5
+  },
+  {
+    "nom": "NOUHAYLA",
+    "prenom": "SABIQ",
+    "age": 22,
+    "id": 6
+  }
+]

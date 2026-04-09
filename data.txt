@@ -1,0 +1,5 @@
+Ceci est un exemple de contenu de fichier.
+
+Node.js permet de manipuler facilement les fichiers.
+
+nouhayla
